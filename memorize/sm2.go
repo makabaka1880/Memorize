@@ -9,16 +9,32 @@ import (
 )
 
 type Card struct {
-	Word Word
+	Word      Word
+	EF        float64
+	Rep       int
+	Intv      int
+	Graduated bool
+}
 
-	EF   float64
-	Rep  int
-	Intv int
+// In Review(), after computing the new c.Intv and c.EF, call this check:
+func (c *Card) ShouldGraduate(cfg *Config) bool {
+	minRep := 5
+	maxIntv := 180
+	minEF := 2.8 // EF near ceiling ~ card is "easy"
+
+	if cfg != nil {
+		minRep = cfg.SM2.GraduateMinRep
+		maxIntv = cfg.SM2.GraduateMaxIntv
+		minEF = cfg.SM2.GraduateMinEF
+	}
+
+	return c.Rep >= minRep && c.Intv >= maxIntv && c.EF >= minEF
 }
 
 type Deck struct {
-	DeckQueue []Card `json:"queue"`
-	cur       *Card
+	DeckQueue      []Card `json:"queue"`
+	GraduatedCards []Card `json:"graduated"`
+	cur            *Card
 }
 
 func NewDeck(list WordList) *Deck {
@@ -69,9 +85,9 @@ func (d *Deck) Shuffle() {
 	}
 }
 
-func (d *Deck) Review(q int) {
+func (d *Deck) Review(q int) bool {
 	if d.cur == nil {
-		return
+		return false
 	}
 
 	cfg := GetConfig()
@@ -115,10 +131,22 @@ func (d *Deck) Review(q int) {
 		idx = len(d.DeckQueue)
 	}
 
+	if c.ShouldGraduate(cfg) {
+		c.Graduated = true
+		d.GraduatedCards = append(d.GraduatedCards, c) // <- missing!
+		d.cur = nil
+		return true
+	}
+
 	d.DeckQueue = append(d.DeckQueue[:idx],
 		append([]Card{c}, d.DeckQueue[idx:]...)...)
 
 	d.cur = nil
+	return false
+}
+
+func (d *Deck) Graduated() []Card {
+	return d.GraduatedCards
 }
 
 func (d *Deck) SaveDeckCache(path string) error {

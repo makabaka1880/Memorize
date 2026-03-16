@@ -56,41 +56,12 @@ func choices(deck *memorize.Deck, correct string) []string {
 	return opts
 }
 
-func main() {
-	// rand.Seed(time.Now().UnixNano())
-
+func train(deck *memorize.Deck, reader *bufio.Reader) {
 	red := color.New(color.FgRed).SprintFunc()
 	green := color.New(color.FgGreen).SprintFunc()
 	bold := color.New(color.Bold).SprintFunc()
 
-	cfg, err := memorize.LoadConfig("config.toml")
-	if err != nil {
-		fmt.Println("Warning: failed to load config, using defaults:", err)
-	} else {
-		memorize.SetConfig(cfg)
-	}
-
-	args := os.Args
-	if len(args) < 2 {
-		fmt.Println("usage: memorize <wordlist.json>")
-		os.Exit(1)
-	}
 	const cachePath = "deck.cache.json"
-
-	var deck *memorize.Deck
-
-	// Try loading saved deck
-	deck, err = memorize.LoadDeckCache(cachePath)
-	if err != nil {
-		// fallback: read wordlist and create new deck
-		list := memorize.ReadWordList(args[1])
-		deck = memorize.NewDeck(list)
-		fmt.Println("Starting new deck.")
-	} else {
-		fmt.Println("Loaded deck from cache.")
-	}
-
-	reader := bufio.NewReader(os.Stdin)
 
 	for {
 		word := deck.Next()
@@ -131,11 +102,44 @@ func main() {
 			fmt.Println(bold("Score:"), red(q))
 		}
 		fmt.Println(bold("Hint:"), *prompt.Hint)
+		if deck.Review(q) {
+			fmt.Println("Card Graduated 🎉 Remaining ", len(deck.DeckQueue), " / ", len(deck.DeckQueue)+len(deck.GraduatedCards))
+		}
 		fmt.Println("----------------")
 
-		deck.Review(q)
 		if err := deck.SaveDeckCache(cachePath); err != nil {
 			fmt.Println("Warning: failed to save deck cache:", err)
 		}
 	}
+}
+
+func main() {
+	cfg, err := memorize.LoadConfig("config.toml")
+	if err != nil {
+		fmt.Println("Warning: failed to load config, using defaults:", err)
+	} else {
+		memorize.SetConfig(cfg)
+	}
+
+	args := os.Args
+	if len(args) < 2 {
+		fmt.Println("usage: memorize <wordlist.json>")
+		os.Exit(1)
+	}
+
+	var deck *memorize.Deck
+
+	// Try loading saved deck
+	deck, err = memorize.LoadDeckCache("deck.cache.json")
+	if err != nil {
+		// fallback: read wordlist and create new deck
+		list := memorize.ReadWordList(args[1])
+		deck = memorize.NewDeck(list)
+		fmt.Println("Starting new deck.")
+	} else {
+		fmt.Println("Loaded deck from cache.")
+	}
+
+	reader := bufio.NewReader(os.Stdin)
+ train(deck, reader)
 }
