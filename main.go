@@ -8,6 +8,8 @@ import (
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/fatih/color"
 )
 
 func maskWord(w string) string {
@@ -57,6 +59,17 @@ func choices(deck *memorize.Deck, correct string) []string {
 func main() {
 	// rand.Seed(time.Now().UnixNano())
 
+	red := color.New(color.FgRed).SprintFunc()
+	green := color.New(color.FgGreen).SprintFunc()
+	bold := color.New(color.Bold).SprintFunc()
+
+	cfg, err := memorize.LoadConfig("config.toml")
+	if err != nil {
+		fmt.Println("Warning: failed to load config, using defaults:", err)
+	} else {
+		memorize.SetConfig(cfg)
+	}
+
 	args := os.Args
 	if len(args) < 2 {
 		fmt.Println("usage: memorize <wordlist.json>")
@@ -67,7 +80,7 @@ func main() {
 	var deck *memorize.Deck
 
 	// Try loading saved deck
-	deck, err := memorize.LoadDeckCache(cachePath)
+	deck, err = memorize.LoadDeckCache(cachePath)
 	if err != nil {
 		// fallback: read wordlist and create new deck
 		list := memorize.ReadWordList(args[1])
@@ -90,8 +103,8 @@ func main() {
 
 		prompt := word.Prompts[rand.Intn(len(word.Prompts))]
 
-		fmt.Println("Prompt:", prompt.Content)
-		fmt.Println("Options:")
+		fmt.Println(bold("Prompt:"), prompt.Content)
+		fmt.Println(bold("Options:"))
 
 		for i, o := range opts {
 			fmt.Printf("%d) %s\n", i+1, maskWord(o))
@@ -103,26 +116,21 @@ func main() {
 		line = strings.TrimSpace(line)
 
 		var q int
+		edit, score := memorize.EditDiff(line, word.Word)
 
 		if n, err := strconv.Atoi(line); err == nil {
 			q = n
-
-		} else if line == "" {
-			q = 0
-
-		} else if strings.EqualFold(line, word.Word) {
-			q = 5
-
-		} else if strings.Contains(strings.ToLower(word.Word), strings.ToLower(line)) {
-			q = 4
-
 		} else {
-			q = 2
+			q = memorize.QFromSimilarity(1 - float64(score)/float64(len(line)+len(word.Word)))
 		}
-
-		fmt.Println("Answer:", word.Word)
-		fmt.Println("Score:", q)
-		fmt.Println("Hint:", *prompt.Hint)
+		if q == 5 {
+			fmt.Println(bold("Answer:"), green(word.Word))
+			fmt.Println(bold("Score:"), green(q))
+		} else {
+			fmt.Println(bold("Answer:"), edit, " -> ", word.Word)
+			fmt.Println(bold("Score:"), red(q))
+		}
+		fmt.Println(bold("Hint:"), *prompt.Hint)
 		fmt.Println("----------------")
 
 		deck.Review(q)

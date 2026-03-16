@@ -24,12 +24,20 @@ type Deck struct {
 func NewDeck(list WordList) *Deck {
 	d := &Deck{}
 
+	cfg := GetConfig()
+	efInit := 2.5
+	intvInit := 1
+	if cfg != nil {
+		efInit = cfg.SM2.EFInitial
+		intvInit = cfg.SM2.IntervalFirst
+	}
+
 	for _, w := range list.Words {
 		d.DeckQueue = append(d.DeckQueue, Card{
 			Word: w,
-			EF:   2.5,
+			EF:   efInit,
 			Rep:  0,
-			Intv: 1,
+			Intv: intvInit,
 		})
 	}
 
@@ -66,6 +74,20 @@ func (d *Deck) Review(q int) {
 		return
 	}
 
+	cfg := GetConfig()
+	intvSecond := 6
+	efMin := 1.3
+	efCoefA := 0.1
+	efCoefB := 0.08
+	efCoefC := 0.02
+	if cfg != nil {
+		intvSecond = cfg.SM2.IntervalSecond
+		efMin = cfg.SM2.EFMin
+		efCoefA = cfg.SM2.EFCoefA
+		efCoefB = cfg.SM2.EFCoefB
+		efCoefC = cfg.SM2.EFCoefC
+	}
+
 	c := *d.cur
 
 	if q < 3 {
@@ -77,15 +99,15 @@ func (d *Deck) Review(q int) {
 		if c.Rep == 1 {
 			c.Intv = 1
 		} else if c.Rep == 2 {
-			c.Intv = 6
+			c.Intv = intvSecond
 		} else {
 			c.Intv = int(math.Round(float64(c.Intv) * c.EF))
 		}
 	}
 
-	c.EF += 0.1 - float64(5-q)*(0.08+float64(5-q)*0.02)
-	if c.EF < 1.3 {
-		c.EF = 1.3
+	c.EF += efCoefA - float64(5-q)*(efCoefB+float64(5-q)*efCoefC)
+	if c.EF < efMin {
+		c.EF = efMin
 	}
 
 	idx := c.Intv
