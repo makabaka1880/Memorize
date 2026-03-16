@@ -1,0 +1,1097 @@
+{
+    "name": "Word List 3",
+    "words": [
+        {
+            "word": "benevolent",
+            "prompts": [
+                {
+                    "content": "a. a __ smile",
+                    "hint": "慈善的"
+                },
+                {
+                    "content": "a. The __ organization helped many poor families.",
+                    "hint": "慈善的"
+                }
+            ]
+        },
+        {
+            "word": "dual",
+            "prompts": [
+                {
+                    "content": "a. a __ role",
+                    "hint": "双的, 双重的; 两部分的"
+                },
+                {
+                    "content": "a. The software serves a __ purpose in business and education.",
+                    "hint": "双的, 双重的; 两部分的"
+                }
+            ]
+        },
+        {
+            "word": "relevant",
+            "prompts": [
+                {
+                    "content": "a. I don't think your arguments are __ to this discussion.",
+                    "hint": "有关的; 切题的"
+                },
+                {
+                    "content": "a. The data is __ to the current project.",
+                    "hint": "有关的; 切题的"
+                }
+            ]
+        },
+        {
+            "word": "soothe",
+            "prompts": [
+                {
+                    "content": "vt. Shelley wiped the girl's forehead, and __ her.",
+                    "hint": "安慰, 使平静; 缓和, 减轻(痛苦等)"
+                },
+                {
+                    "content": "vt. A cold cloth pressed against your jaw will __ a toothache.",
+                    "hint": "安慰, 使平静; 缓和, 减轻(痛苦等)"
+                }
+            ]
+        },
+        {
+            "word": "utter",
+            "prompts": [
+                {
+                    "content": "a. The boy looked at his teacher in __ confusion.",
+                    "hint": "完全的, 彻底的, 十足的"
+                },
+                {
+                    "content": "vt. Susan __ her explanation so softly that we couldn't hear it.",
+                    "hint": "发出声音; 说, 讲"
+                }
+            ]
+        },
+        {
+            "word": "congest",
+            "prompts": [
+                {
+                    "content": "v. The expressway was __ with cars.",
+                    "hint": "(使)充满，(使)拥塞"
+                },
+                {
+                    "content": "v. Traffic tends to __ the city center during rush hour.",
+                    "hint": "(使)充满，(使)拥塞"
+                }
+            ]
+        },
+        {
+            "word": "dogged",
+            "prompts": [
+                {
+                    "content": "a. __ persistence",
+                    "hint": "顽固的，顽强的"
+                },
+                {
+                    "content": "a. His __ efforts finally led to success.",
+                    "hint": "顽固的，顽强的"
+                }
+            ]
+        },
+        {
+            "word": "brusque",
+            "prompts": [
+                {
+                    "content": "a. in a __ tone",
+                    "hint": "唐突的，无礼的；直率的；粗暴的"
+                },
+                {
+                    "content": "a. She spoke in a __ attitude that offended everyone.",
+                    "hint": "唐突的，无礼的；直率的；粗暴的"
+                }
+            ]
+        },
+        {
+            "word": "demure",
+            "prompts": [
+                {
+                    "content": "a. a __ smile",
+                    "hint": "端庄的；假装矜持的"
+                },
+                {
+                    "content": "a. Her __ behavior made her seem very proper.",
+                    "hint": "端庄的；假装矜持的"
+                }
+            ]
+        },
+        {
+            "word": "augment",
+            "prompts": [
+                {
+                    "content": "vt. Those girls often __ their recipe collection by passing around their favourites.",
+                    "hint": "增加；增大；提高"
+                },
+                {
+                    "content": "vt. We need to __ our staff to handle the extra workload.",
+                    "hint": "增加；增大；提高"
+                }
+            ]
+        },
+        {
+            "word": "symbolize",
+            "prompts": [
+                {
+                    "content": "vt. In Europe, the colour white __ purity.",
+                    "hint": "象征，作为…的象征"
+                },
+                {
+                    "content": "vt. The dove __ peace in many cultures.",
+                    "hint": "象征，作为…的象征"
+                }
+            ]
+        },
+        {
+            "word": "unspeakable",
+            "prompts": [
+                {
+                    "content": "a. __ embarrassment",
+                    "hint": "无法形容的，不能以言语表达的"
+                },
+                {
+                    "content": "a. The horror of the event was __.",
+                    "hint": "无法形容的，不能以言语表达的"
+                }
+            ]
+        },
+        {
+            "word": "animosity",
+            "prompts": [
+                {
+                    "content": "n. The villagers felt burning __ towards the invading forces.",
+                    "hint": "仇恨，憎恶"
+                },
+                {
+                    "content": "n. There was deep __ between the two rival teams.",
+                    "hint": "仇恨，憎恶"
+                }
+            ]
+        },
+        {
+            "word": "collapse",
+            "prompts": [
+                {
+                    "content": "v. Hearing the news, Janice __ into the sofa.",
+                    "hint": "倒塌；崩溃，突然失败；虚脱，(因病)倒下"
+                },
+                {
+                    "content": "v. The building may __ if the foundation is weak.",
+                    "hint": "倒塌；崩溃，突然失败；虚脱，(因病)倒下"
+                }
+            ]
+        },
+        {
+            "word": "intelligible",
+            "prompts": [
+                {
+                    "content": "a. __ explanation",
+                    "hint": "可理解的，明白易懂的"
+                },
+                {
+                    "content": "a. The lecture was clear and __ to the students.",
+                    "hint": "可理解的，明白易懂的"
+                }
+            ]
+        },
+        {
+            "word": "acquired",
+            "prompts": [
+                {
+                    "content": "a. The skills are __ through hard work.",
+                    "hint": "已获得的; 通过自己的后天努力得到的"
+                },
+                {
+                    "content": "a. His knowledge was __ over many years of study.",
+                    "hint": "已获得的; 通过自己的后天努力得到的"
+                }
+            ]
+        },
+        {
+            "word": "beget",
+            "prompts": [
+                {
+                    "content": "vt. Poverty and hunger __ crime.",
+                    "hint": "成为…的父亲; 引起, 招致"
+                },
+                {
+                    "content": "vt. Success can __ more opportunities.",
+                    "hint": "成为…的父亲; 引起, 招致"
+                }
+            ]
+        },
+        {
+            "word": "amorphous",
+            "prompts": [
+                {
+                    "content": "a. __ carbon",
+                    "hint": "无定形的, 不成形的; 非结晶的"
+                },
+                {
+                    "content": "a. The plan was still __ and needed more structure.",
+                    "hint": "无定形的, 不成形的; 非结晶的"
+                }
+            ]
+        },
+        {
+            "word": "strenuous",
+            "prompts": [
+                {
+                    "content": "a. The boat went down although __ efforts were made to save it.",
+                    "hint": "积极的, 奋发的; 费劲的"
+                },
+                {
+                    "content": "a. We should avoid __ exercise immediately after a meal.",
+                    "hint": "积极的, 奋发的; 费劲的"
+                }
+            ]
+        },
+        {
+            "word": "drowsy",
+            "prompts": [
+                {
+                    "content": "a. a __ afternoon",
+                    "hint": "昏昏欲睡的"
+                },
+                {
+                    "content": "a. The warm room made me feel __.",
+                    "hint": "昏昏欲睡的"
+                }
+            ]
+        },
+        {
+            "word": "eclectic",
+            "prompts": [
+                {
+                    "content": "a. She has very __ tastes in music.",
+                    "hint": "兼收并蓄的; 博采众长的"
+                },
+                {
+                    "content": "a. His __ collection of art included works from many cultures.",
+                    "hint": "兼收并蓄的; 博采众长的"
+                }
+            ]
+        },
+        {
+            "word": "absurd",
+            "prompts": [
+                {
+                    "content": "a. __ play",
+                    "hint": "荒唐的, 荒谬的"
+                },
+                {
+                    "content": "a. The idea seemed completely __ to everyone.",
+                    "hint": "荒唐的, 荒谬的"
+                }
+            ]
+        },
+        {
+            "word": "dilate",
+            "prompts": [
+                {
+                    "content": "v. The blood vessels then __, allowing blood to flow smoothly.",
+                    "hint": "扩大, 膨胀"
+                },
+                {
+                    "content": "v. The pupils of the eyes __ in the dark.",
+                    "hint": "扩大, 膨胀"
+                }
+            ]
+        },
+        {
+            "word": "systematic",
+            "prompts": [
+                {
+                    "content": "a. a long-term, __ research",
+                    "hint": "系统的, 体系的"
+                },
+                {
+                    "content": "a. The investigation was thorough and __.",
+                    "hint": "系统的, 体系的"
+                }
+            ]
+        },
+        {
+            "word": "misdeed",
+            "prompts": [
+                {
+                    "content": "n. an antisocial __",
+                    "hint": "罪行, 犯罪"
+                },
+                {
+                    "content": "n. He was punished for his past __.",
+                    "hint": "罪行, 犯罪"
+                }
+            ]
+        },
+        {
+            "word": "stimulate",
+            "prompts": [
+                {
+                    "content": "vt. This library was established to __ public interest in books.",
+                    "hint": "刺激, 使兴奋; 激励, 鼓舞"
+                },
+                {
+                    "content": "vt. The new policy will __ economic growth.",
+                    "hint": "刺激, 使兴奋; 激励, 鼓舞"
+                }
+            ]
+        },
+        {
+            "word": "imprint",
+            "prompts": [
+                {
+                    "content": "vt. One snowy morning footprints and tyre marks were __ in the snow.",
+                    "hint": "印, 压印; 铭记"
+                },
+                {
+                    "content": "n. The event left a lasting __ on his memory.",
+                    "hint": "印记; 深刻的印象; 持久的特征、标志"
+                }
+            ]
+        },
+        {
+            "word": "forsake",
+            "prompts": [
+                {
+                    "content": "v. William was __ by his companions when he was in danger.",
+                    "hint": "放弃; 抛弃"
+                },
+                {
+                    "content": "v. He decided to __ his old habits for a better life.",
+                    "hint": "放弃; 抛弃"
+                }
+            ]
+        },
+        {
+            "word": "callous",
+            "prompts": [
+                {
+                    "content": "a. __ attitude",
+                    "hint": "无情的, 硬心肠的; 冷淡的; 硬结的; 起老茧的"
+                },
+                {
+                    "content": "a. His __ hands showed years of hard labor.",
+                    "hint": "无情的, 硬心肠的; 冷淡的; 硬结的; 起老茧的"
+                }
+            ]
+        },
+        {
+            "word": "misstep",
+            "prompts": [
+                {
+                    "content": "n. a __ in his career",
+                    "hint": "失足; 失策"
+                },
+                {
+                    "content": "n. One small __ can lead to big problems.",
+                    "hint": "失足; 失策"
+                }
+            ]
+        },
+        {
+            "word": "undue",
+            "prompts": [
+                {
+                    "content": "a. The plan should be carried out without __ delay.",
+                    "hint": "不适当的; 过度的"
+                },
+                {
+                    "content": "a. She received __ praise for a minor achievement.",
+                    "hint": "不适当的; 过度的"
+                }
+            ]
+        },
+        {
+            "word": "fluctuation",
+            "prompts": [
+                {
+                    "content": "n. a wild __",
+                    "hint": "波动, 起伏"
+                },
+                {
+                    "content": "n. There was a sudden __ in the stock prices.",
+                    "hint": "波动, 起伏"
+                }
+            ]
+        },
+        {
+            "word": "dissect",
+            "prompts": [
+                {
+                    "content": "vt. The book __ a variety of data to show how the man runs his company.",
+                    "hint": "解剖; 仔细研究"
+                },
+                {
+                    "content": "vt. Scientists __ the specimen to study its structure.",
+                    "hint": "解剖; 仔细研究"
+                }
+            ]
+        },
+        {
+            "word": "simile",
+            "prompts": [
+                {
+                    "content": "n. The writer used a __ to compare the heart to a drum.",
+                    "hint": "明喻"
+                },
+                {
+                    "content": "n. 'As brave as a lion' is a common __.",
+                    "hint": "明喻"
+                }
+            ]
+        },
+        {
+            "word": "derelict",
+            "prompts": [
+                {
+                    "content": "a. a __ ship",
+                    "hint": "被抛弃的, 遗弃的; 玩忽职守的; 荒废的, 弃置的"
+                },
+                {
+                    "content": "a. The old factory stood __ for years.",
+                    "hint": "被抛弃的, 遗弃的; 玩忽职守的; 荒废的, 弃置的"
+                }
+            ]
+        },
+        {
+            "word": "subordinate",
+            "prompts": [
+                {
+                    "content": "a. This question is __ to the main aim of our company.",
+                    "hint": "次要的, 从属的; 下级的"
+                },
+                {
+                    "content": "n. Chris's __ find him difficult to work with.",
+                    "hint": "部属, 下级"
+                }
+            ]
+        },
+        {
+            "word": "comprise",
+            "prompts": [
+                {
+                    "content": "vt. A federal law provides that the trademark cannot be registered if it __ the flag of the country.",
+                    "hint": "包含, 包括; 构成"
+                },
+                {
+                    "content": "vt. The team __ players from several countries.",
+                    "hint": "包含, 包括; 构成"
+                }
+            ]
+        },
+        {
+            "word": "retrieve",
+            "prompts": [
+                {
+                    "content": "v. The new version of the software automatically __ digital information.",
+                    "hint": "重新得到, 寻回, 找回; 恢复, 挽回"
+                },
+                {
+                    "content": "v. He tried to __ the lost data from the backup.",
+                    "hint": "重新得到, 寻回, 找回; 恢复, 挽回"
+                }
+            ]
+        },
+        {
+            "word": "imaginary",
+            "prompts": [
+                {
+                    "content": "a. an __ character",
+                    "hint": "假想的, 想象的, 虚构的"
+                },
+                {
+                    "content": "a. The story is about an __ world.",
+                    "hint": "假想的, 想象的, 虚构的"
+                }
+            ]
+        },
+        {
+            "word": "naval",
+            "prompts": [
+                {
+                    "content": "a. a __ base",
+                    "hint": "海军的; 军舰的"
+                },
+                {
+                    "content": "a. The __ forces defended the coast.",
+                    "hint": "海军的; 军舰的"
+                }
+            ]
+        },
+        {
+            "word": "bumptious",
+            "prompts": [
+                {
+                    "content": "a. The manager was embarrassed by Duane's __ behaviour.",
+                    "hint": "盲目自大的, 傲慢的"
+                },
+                {
+                    "content": "a. His __ attitude annoyed his colleagues.",
+                    "hint": "盲目自大的, 傲慢的"
+                }
+            ]
+        },
+        {
+            "word": "prolong",
+            "prompts": [
+                {
+                    "content": "vt. The operation could __ his life by two or three years.",
+                    "hint": "拉长; 延长, 拖延"
+                },
+                {
+                    "content": "vt. They tried to __ the meeting to discuss more issues.",
+                    "hint": "拉长; 延长, 拖延"
+                }
+            ]
+        },
+        {
+            "word": "ulterior",
+            "prompts": [
+                {
+                    "content": "a. There was no __ motive in Joseph's proposal.",
+                    "hint": "隐秘的; 别有用心的"
+                },
+                {
+                    "content": "a. She suspected an __ reason behind the offer.",
+                    "hint": "隐秘的; 别有用心的"
+                }
+            ]
+        },
+        {
+            "word": "irrelevant",
+            "prompts": [
+                {
+                    "content": "a. To many young people, traditions seemed outdated and __ to modern times.",
+                    "hint": "不相关的; 不切题的"
+                },
+                {
+                    "content": "a. The comment was completely __ to the topic.",
+                    "hint": "不相关的; 不切题的"
+                }
+            ]
+        },
+        {
+            "word": "unanimity",
+            "prompts": [
+                {
+                    "content": "n. There is no __ of opinion on this subject.",
+                    "hint": "全体一致, 全体同意"
+                },
+                {
+                    "content": "n. The committee reached __ after long debate.",
+                    "hint": "全体一致, 全体同意"
+                }
+            ]
+        },
+        {
+            "word": "subsequent",
+            "prompts": [
+                {
+                    "content": "a. __ investigations did not uncover any new evidence.",
+                    "hint": "随后的, 后来的, 接下来的"
+                },
+                {
+                    "content": "a. The __ events proved his prediction wrong.",
+                    "hint": "随后的, 后来的, 接下来的"
+                }
+            ]
+        },
+        {
+            "word": "transient",
+            "prompts": [
+                {
+                    "content": "a. __ population",
+                    "hint": "短促的, 片刻的, 一瞬间的; 暂住的; 临时的; 过往的"
+                },
+                {
+                    "content": "a. Her happiness was __ and soon faded.",
+                    "hint": "短促的, 片刻的, 一瞬间的; 暂住的; 临时的; 过往的"
+                }
+            ]
+        },
+        {
+            "word": "technique",
+            "prompts": [
+                {
+                    "content": "n. The artist perfected a new painting __.",
+                    "hint": "技术; 技巧"
+                },
+                {
+                    "content": "n. Advanced __ are required for this surgery.",
+                    "hint": "技术; 技巧"
+                }
+            ]
+        },
+        {
+            "word": "geology",
+            "prompts": [
+                {
+                    "content": "n. He studied __ at university.",
+                    "hint": "地质学; (某地区的)地质"
+                },
+                {
+                    "content": "n. The __ of the area shows ancient rock formations.",
+                    "hint": "地质学; (某地区的)地质"
+                }
+            ]
+        },
+        {
+            "word": "charlatan",
+            "prompts": [
+                {
+                    "content": "n. The so-called doctor was exposed as a __.",
+                    "hint": "庸医; 吹牛者; 冒充内行的人"
+                },
+                {
+                    "content": "n. Don't trust that __ who claims to have all the answers.",
+                    "hint": "庸医; 吹牛者; 冒充内行的人"
+                }
+            ]
+        },
+        {
+            "word": "gravity",
+            "prompts": [
+                {
+                    "content": "n. the center of __",
+                    "hint": "重力, 引力; 严重; 严肃, 庄重"
+                },
+                {
+                    "content": "n. The situation was treated with the __ it deserved.",
+                    "hint": "重力, 引力; 严重; 严肃, 庄重"
+                }
+            ]
+        },
+        {
+            "word": "explicate",
+            "prompts": [
+                {
+                    "content": "vt. There are several problems that I have not even tried to __.",
+                    "hint": "(详尽地)解释, 澄清, 说明(观点、概念等)"
+                },
+                {
+                    "content": "vt. The professor will __ the theory in detail.",
+                    "hint": "(详尽地)解释, 澄清, 说明(观点、概念等)"
+                }
+            ]
+        },
+        {
+            "word": "decoy",
+            "prompts": [
+                {
+                    "content": "n. These men started the fire as a __.",
+                    "hint": "诱饵; (诱捕鸟兽的) 动物; 用于引诱某人入圈套的人或物; 诱骗, 圈套"
+                },
+                {
+                    "content": "vt. The police used a fake wallet to __ the thief.",
+                    "hint": "引诱, 诱骗"
+                }
+            ]
+        },
+        {
+            "word": "prophetic",
+            "prompts": [
+                {
+                    "content": "a. Much of Orwell's writing now seems __.",
+                    "hint": "预言的; 有预见的"
+                },
+                {
+                    "content": "a. His __ words came true years later.",
+                    "hint": "预言的; 有预见的"
+                }
+            ]
+        },
+        {
+            "word": "figurative",
+            "prompts": [
+                {
+                    "content": "a. a __ artist",
+                    "hint": "比喻的; 形象的; 象征的"
+                },
+                {
+                    "content": "a. The language is __ and full of metaphors.",
+                    "hint": "比喻的; 形象的; 象征的"
+                }
+            ]
+        },
+        {
+            "word": "demise",
+            "prompts": [
+                {
+                    "content": "n. a sudden __",
+                    "hint": "死亡, 逝世"
+                },
+                {
+                    "content": "n. The company's __ came after years of poor management.",
+                    "hint": "死亡, 逝世"
+                }
+            ]
+        },
+        {
+            "word": "cant",
+            "prompts": [
+                {
+                    "content": "n. a speech full of political __",
+                    "hint": "伪善之言; 隐语, 黑话; 斜面"
+                },
+                {
+                    "content": "v. The surgeons used their own __ during the operation.",
+                    "hint": "讲黑话; 倾斜"
+                }
+            ]
+        },
+        {
+            "word": "narrative",
+            "prompts": [
+                {
+                    "content": "n. a master of __",
+                    "hint": "叙述的, 解说的; 有故事性的; 叙述; 记叙文"
+                },
+                {
+                    "content": "a. The book has a strong __ style.",
+                    "hint": "叙述的, 解说的; 有故事性的; 叙述; 记叙文"
+                }
+            ]
+        },
+        {
+            "word": "erroneous",
+            "prompts": [
+                {
+                    "content": "a. __ conclusion",
+                    "hint": "错误的, 不正确的"
+                },
+                {
+                    "content": "a. The report contained several __ facts.",
+                    "hint": "错误的, 不正确的"
+                }
+            ]
+        },
+        {
+            "word": "acme",
+            "prompts": [
+                {
+                    "content": "n. the __ of perfection",
+                    "hint": "顶点, 顶端"
+                },
+                {
+                    "content": "n. This achievement represents the __ of his career.",
+                    "hint": "顶点, 顶端"
+                }
+            ]
+        },
+        {
+            "word": "potential",
+            "prompts": [
+                {
+                    "content": "a. a __ source of conflict",
+                    "hint": "潜在的, 可能的; 潜能, 潜力"
+                },
+                {
+                    "content": "n. She has great __ as a leader.",
+                    "hint": "潜在的, 可能的; 潜能, 潜力"
+                }
+            ]
+        },
+        {
+            "word": "conflagration",
+            "prompts": [
+                {
+                    "content": "n. The forest __ destroyed hundreds of acres.",
+                    "hint": "大火, 大火灾"
+                },
+                {
+                    "content": "n. A massive __ broke out in the warehouse.",
+                    "hint": "大火, 大火灾"
+                }
+            ]
+        },
+        {
+            "word": "extant",
+            "prompts": [
+                {
+                    "content": "a. __ remains",
+                    "hint": "现存的"
+                },
+                {
+                    "content": "a. Few copies of the ancient book are still __.",
+                    "hint": "现存的"
+                }
+            ]
+        },
+        {
+            "word": "adroit",
+            "prompts": [
+                {
+                    "content": "a. an __ negotiator",
+                    "hint": "(尤指待人接物)精明的, 干练的, 机敏的; 熟练的, 有技巧的"
+                },
+                {
+                    "content": "a. Her __ handling of the crisis saved the company.",
+                    "hint": "(尤指待人接物)精明的, 干练的, 机敏的; 熟练的, 有技巧的"
+                }
+            ]
+        },
+        {
+            "word": "commensurate",
+            "prompts": [
+                {
+                    "content": "a. Salary should be __ with age and experience.",
+                    "hint": "相称的, 相当的"
+                },
+                {
+                    "content": "a. The reward was __ with the effort put in.",
+                    "hint": "相称的, 相当的"
+                }
+            ]
+        },
+        {
+            "word": "collaborate",
+            "prompts": [
+                {
+                    "content": "vi. A German company __ with an American firm to develop the new product.",
+                    "hint": "协作, 合作"
+                },
+                {
+                    "content": "vi. The two artists decided to __ on a new project.",
+                    "hint": "协作, 合作"
+                }
+            ]
+        },
+        {
+            "word": "anticipate",
+            "prompts": [
+                {
+                    "content": "v. It was __ that the research would have many different practical applications.",
+                    "hint": "预期, 预料; 预见, 期望; 先于…行动"
+                },
+                {
+                    "content": "v. We __ a rise in prices next year.",
+                    "hint": "预期, 预料; 预见, 期望; 先于…行动"
+                }
+            ]
+        },
+        {
+            "word": "recline",
+            "prompts": [
+                {
+                    "content": "v. __ in a comfortable chair, David idly flipped through a magazine.",
+                    "hint": "向后靠, 斜倚"
+                },
+                {
+                    "content": "v. The seat can __ for more comfort.",
+                    "hint": "向后靠, 斜倚"
+                }
+            ]
+        },
+        {
+            "word": "vegetarian",
+            "prompts": [
+                {
+                    "content": "n. He became a strict __ after reading about animal rights.",
+                    "hint": "素食主义者"
+                },
+                {
+                    "content": "n. The restaurant offers many options for __.",
+                    "hint": "素食主义者"
+                }
+            ]
+        },
+        {
+            "word": "encompass",
+            "prompts": [
+                {
+                    "content": "v. Some universities have already come up with new programs that __ both business and technical curricula.",
+                    "hint": "包围, 环绕; 包含, 包括"
+                },
+                {
+                    "content": "v. The study __ a wide range of topics.",
+                    "hint": "包围, 环绕; 包含, 包括"
+                }
+            ]
+        },
+        {
+            "word": "subconscious",
+            "prompts": [
+                {
+                    "content": "a. a __ motive",
+                    "hint": "下意识的"
+                },
+                {
+                    "content": "a. His fear was deeply __ and hard to explain.",
+                    "hint": "下意识的"
+                }
+            ]
+        },
+        {
+            "word": "amphibious",
+            "prompts": [
+                {
+                    "content": "a. __ creatures",
+                    "hint": "(生物)水陆两栖的"
+                },
+                {
+                    "content": "a. The __ vehicle can travel on land or water.",
+                    "hint": "(生物)水陆两栖的"
+                }
+            ]
+        },
+        {
+            "word": "receptive",
+            "prompts": [
+                {
+                    "content": "a. a __ audience",
+                    "hint": "善于接受的, 能接纳的"
+                },
+                {
+                    "content": "a. The students were __ to new ideas.",
+                    "hint": "善于接受的, 能接纳的"
+                }
+            ]
+        },
+        {
+            "word": "deft",
+            "prompts": [
+                {
+                    "content": "a. The artist finished off the painting with a few __ strokes of the brush.",
+                    "hint": "巧妙的, 熟练的; 敏捷的, 灵巧的"
+                },
+                {
+                    "content": "a. Her __ fingers quickly tied the knot.",
+                    "hint": "巧妙的, 熟练的; 敏捷的, 灵巧的"
+                }
+            ]
+        },
+        {
+            "word": "cavil",
+            "prompts": [
+                {
+                    "content": "v. Several directors __ at the cost of the project.",
+                    "hint": "吹毛求疵, 挑剔; 指责"
+                },
+                {
+                    "content": "v. Stop __ and accept the plan as it is.",
+                    "hint": "吹毛求疵, 挑剔; 指责"
+                }
+            ]
+        },
+        {
+            "word": "abominate",
+            "prompts": [
+                {
+                    "content": "vt. Two brothers lived together, but __ each other.",
+                    "hint": "痛恨，憎恶"
+                },
+                {
+                    "content": "vt. Many people __ violence in any form.",
+                    "hint": "痛恨，憎恶"
+                }
+            ]
+        },
+        {
+            "word": "apogee",
+            "prompts": [
+                {
+                    "content": "n. __ altitude",
+                    "hint": "[天]远地点"
+                },
+                {
+                    "content": "n. The rocket reached its __ before returning to Earth.",
+                    "hint": "[天]远地点"
+                }
+            ]
+        },
+        {
+            "word": "maze",
+            "prompts": [
+                {
+                    "content": "n. For many foreign tourists, the Hutong of Beijing is a delightful __.",
+                    "hint": "迷宫；迷魂阵；(事情等的)错综复杂；困惑，迷惘"
+                },
+                {
+                    "content": "n. The puzzle was a complex __ of paths.",
+                    "hint": "迷宫；迷魂阵；(事情等的)错综复杂；困惑，迷惘"
+                }
+            ]
+        },
+        {
+            "word": "concourse",
+            "prompts": [
+                {
+                    "content": "n. Each year a __ of pilgrims gather in Mekka for worshipping.",
+                    "hint": "集合，汇合；合流；广场；(车站、机场等的)大厅；一大群人"
+                },
+                {
+                    "content": "n. The station __ was crowded with travelers.",
+                    "hint": "集合，汇合；合流；广场；(车站、机场等的)大厅；一大群人"
+                }
+            ]
+        },
+        {
+            "word": "engaging",
+            "prompts": [
+                {
+                    "content": "a. Leo fell in love with his wife at the first sight just because of her __ smile.",
+                    "hint": "迷人的，美丽动人的，有魅力的，有吸引力的"
+                },
+                {
+                    "content": "a. The speaker gave an __ presentation.",
+                    "hint": "迷人的，美丽动人的，有魅力的，有吸引力的"
+                }
+            ]
+        },
+        {
+            "word": "anchor",
+            "prompts": [
+                {
+                    "content": "n. The ship will come back, drop the __ and stop at the harbor in time.",
+                    "hint": "锚；给人安全感之物(或人)，精神支柱"
+                },
+                {
+                    "content": "v. They will __ the boat at the dock.",
+                    "hint": "抛锚，泊船；把…系住，使固定"
+                }
+            ]
+        },
+        {
+            "word": "parry",
+            "prompts": [
+                {
+                    "content": "v. The spokesman __ the enquiries about the official's taking bribes.",
+                    "hint": "挡开，避开(武器、打击等)；回避(问题等)"
+                },
+                {
+                    "content": "v. He tried to __ the opponent's attack.",
+                    "hint": "挡开，避开(武器、打击等)；回避(问题等)"
+                }
+            ]
+        },
+        {
+            "word": "harmonic",
+            "prompts": [
+                {
+                    "content": "a. The __ tones of the second movement is quite charming.",
+                    "hint": "和声的；和谐的，悦耳的"
+                },
+                {
+                    "content": "n. The song features beautiful __.",
+                    "hint": "泛音"
+                }
+            ]
+        },
+        {
+            "word": "welter",
+            "prompts": [
+                {
+                    "content": "n. A __ of emails filled in the mail-box when I came back from traveling.",
+                    "hint": "混乱，杂乱无章；杂乱的一堆；翻滚，滚动"
+                },
+                {
+                    "content": "n. The room was in a __ of papers and books.",
+                    "hint": "混乱，杂乱无章；杂乱的一堆；翻滚，滚动"
+                }
+            ]
+        }
+    ]
+}

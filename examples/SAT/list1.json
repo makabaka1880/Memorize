@@ -1,0 +1,1214 @@
+{
+    "name": "Word List 1",
+    "words": [
+        {
+            "word": "evict",
+            "prompts": [
+                {
+                    "content": "vt. Monica's mother, who has now been __ed from her home, is staying with friends.",
+                    "hint": "驱逐"
+                },
+                {
+                    "content": "vt. The landlord threatened to __ the family if they did not pay the rent.",
+                    "hint": "驱逐"
+                }
+            ]
+        },
+        {
+            "word": "exhale",
+            "prompts": [
+                {
+                    "content": "v. Rita __ed in relief when she saw her daughter come back safely.",
+                    "hint": "呼气"
+                },
+                {
+                    "content": "v. After holding her breath underwater, she slowly began to __.",
+                    "hint": "呼气"
+                }
+            ]
+        },
+        {
+            "word": "affinity",
+            "prompts": [
+                {
+                    "content": "n. The scientist recognized the __ between sound and light in the end.",
+                    "hint": "构造相似; 特点相近; 密切关系; 亲缘关系"
+                },
+                {
+                    "content": "n. There is a strong __ between the two cultures due to shared history.",
+                    "hint": "构造相似; 特点相近; 密切关系; 亲缘关系"
+                }
+            ]
+        },
+        {
+            "word": "inalterable",
+            "prompts": [
+                {
+                    "content": "a. The fundamental laws of nature are __.",
+                    "hint": "不能变更的, 不变的"
+                },
+                {
+                    "content": "a. Her commitment to the project remained __ despite the challenges.",
+                    "hint": "不能变更的, 不变的"
+                }
+            ]
+        },
+        {
+            "word": "debase",
+            "prompts": [
+                {
+                    "content": "vt. Greed could __ one's character.",
+                    "hint": "降低, 贬损"
+                },
+                {
+                    "content": "vt. Counterfeit coins will __ the value of the real currency.",
+                    "hint": "降低, 贬损"
+                }
+            ]
+        },
+        {
+            "word": "retrospect",
+            "prompts": [
+                {
+                    "content": "n. In __ I must admit we have made a big mistake.",
+                    "hint": "回顾"
+                },
+                {
+                    "content": "n. In __, moving to the city was the turning point in her career.",
+                    "hint": "回顾"
+                }
+            ]
+        },
+        {
+            "word": "acclimate",
+            "prompts": [
+                {
+                    "content": "v. The flowers and grasses have not yet __ed to this climate.",
+                    "hint": "(使)适应"
+                },
+                {
+                    "content": "v. It took the new employees several months to __ to the fast-paced office environment.",
+                    "hint": "(使)适应"
+                }
+            ]
+        },
+        {
+            "word": "begrudge",
+            "prompts": [
+                {
+                    "content": "vt. You surely don't __ her being so successful.",
+                    "hint": "嫉妒; 舍不得给"
+                },
+                {
+                    "content": "vt. I don't __ you the promotion, but I wish I had worked harder too.",
+                    "hint": "嫉妒; 舍不得给"
+                }
+            ]
+        },
+        {
+            "word": "calamity",
+            "prompts": [
+                {
+                    "content": "n. This country suffered a series of __s during the 1980s.",
+                    "hint": "大灾祸, 灾难, 不幸"
+                },
+                {
+                    "content": "n. The flood was a terrible __ that destroyed thousands of homes.",
+                    "hint": "大灾祸, 灾难, 不幸"
+                }
+            ]
+        },
+        {
+            "word": "altruistic",
+            "prompts": [
+                {
+                    "content": "a. __ motive drives many volunteers to help strangers.",
+                    "hint": "利他的, 无私心的"
+                },
+                {
+                    "content": "a. Her __ decision to donate all her savings surprised everyone.",
+                    "hint": "利他的, 无私心的"
+                }
+            ]
+        },
+        {
+            "word": "banal",
+            "prompts": [
+                {
+                    "content": "a. The speaker's remarks were __ and offered nothing new.",
+                    "hint": "平凡的; 陈腐的, 老一套的"
+                },
+                {
+                    "content": "a. His jokes were so __ that the audience quickly lost interest.",
+                    "hint": "平凡的; 陈腐的, 老一套的"
+                }
+            ]
+        },
+        {
+            "word": "treacherous",
+            "prompts": [
+                {
+                    "content": "a. A __, selfish woman cannot be trusted with secrets.",
+                    "hint": "背叛的, 背信弃义的"
+                },
+                {
+                    "content": "a. The mountain path was __ after the heavy rain.",
+                    "hint": "背叛的, 背信弃义的"
+                }
+            ]
+        },
+        {
+            "word": "entangle",
+            "prompts": [
+                {
+                    "content": "vt. Paul was inextricably __ in the snare of his antagonist.",
+                    "hint": "使…纠缠, 卷入; 连累; 使混乱"
+                },
+                {
+                    "content": "vt. The fishing net became __ in the propeller of the boat.",
+                    "hint": "使…纠缠, 卷入; 连累; 使混乱"
+                }
+            ]
+        },
+        {
+            "word": "junction",
+            "prompts": [
+                {
+                    "content": "n. The railway __ connects three major cities.",
+                    "hint": "连接, 接合; 交叉点, 接合处; 枢纽站"
+                },
+                {
+                    "content": "n. We met at the busy road __ near the station.",
+                    "hint": "连接, 接合; 交叉点, 接合处; 枢纽站"
+                }
+            ]
+        },
+        {
+            "word": "empower",
+            "prompts": [
+                {
+                    "content": "vt. I know that the manager have __ed Gavin to deal with David behind my back.",
+                    "hint": "授权, 准许"
+                },
+                {
+                    "content": "vt. The new law will __ citizens to report corruption directly.",
+                    "hint": "授权, 准许"
+                }
+            ]
+        },
+        {
+            "word": "dissuade",
+            "prompts": [
+                {
+                    "content": "vt. The females are obviously well aware of the danger, as they try hard to __ other females from joining them.",
+                    "hint": "劝阻; 使灰心"
+                },
+                {
+                    "content": "vt. Her friends tried to __ her from quitting her stable job.",
+                    "hint": "劝阻; 使灰心"
+                }
+            ]
+        },
+        {
+            "word": "latent",
+            "prompts": [
+                {
+                    "content": "a. __ capital can be activated during economic growth.",
+                    "hint": "潜在的, 潜伏的, 不易察觉的"
+                },
+                {
+                    "content": "a. The virus remained __ in his body for years before symptoms appeared.",
+                    "hint": "潜在的, 潜伏的, 不易察觉的"
+                }
+            ]
+        },
+        {
+            "word": "decrepit",
+            "prompts": [
+                {
+                    "content": "a. A __ building was finally demolished for safety reasons.",
+                    "hint": "破旧的, 老化的, 磨损的; 衰老的"
+                },
+                {
+                    "content": "a. The __ old man needed help crossing the street.",
+                    "hint": "破旧的, 老化的, 磨损的; 衰老的"
+                }
+            ]
+        },
+        {
+            "word": "summon",
+            "prompts": [
+                {
+                    "content": "v. Jack was __ed as a witness last month.",
+                    "hint": "召唤; 召集; 传讯, 传唤; 鼓起(勇气), 振作(精神)"
+                },
+                {
+                    "content": "v. She had to __ all her courage before speaking in public.",
+                    "hint": "召唤; 召集; 传讯, 传唤; 鼓起(勇气), 振作(精神)"
+                }
+            ]
+        },
+        {
+            "word": "wistful",
+            "prompts": [
+                {
+                    "content": "a. The girl looked with __ eyes at the doll on display.",
+                    "hint": "伤感的, 徒然神往的"
+                },
+                {
+                    "content": "a. He felt __ thinking about his childhood summers by the lake.",
+                    "hint": "伤感的, 徒然神往的"
+                }
+            ]
+        },
+        {
+            "word": "buoyant",
+            "prompts": [
+                {
+                    "content": "a. The __ mood of the crowd lifted everyone's spirits.",
+                    "hint": "有浮力的; 乐观的"
+                },
+                {
+                    "content": "a. The __ wood floated easily on the lake surface.",
+                    "hint": "有浮力的; 乐观的"
+                }
+            ]
+        },
+        {
+            "word": "consummate",
+            "prompts": [
+                {
+                    "content": "vt./a. The award __ the actor's life.",
+                    "hint": "完成, 使完整, 使圆满 / 圆满的; 技艺高超的; 完美的"
+                },
+                {
+                    "content": "vt./a. She executed the plan with __ skill and precision.",
+                    "hint": "完成, 使完整, 使圆满 / 圆满的; 技艺高超的; 完美的"
+                }
+            ]
+        },
+        {
+            "word": "irate",
+            "prompts": [
+                {
+                    "content": "a. The __ customers demanded to speak to the manager.",
+                    "hint": "生气的, 发怒的"
+                },
+                {
+                    "content": "a. He became __ when he discovered the mistake in the contract.",
+                    "hint": "生气的, 发怒的"
+                }
+            ]
+        },
+        {
+            "word": "commute",
+            "prompts": [
+                {
+                    "content": "v. __ing students travel between home and campus daily.",
+                    "hint": "交换; 减刑; 通勤"
+                },
+                {
+                    "content": "v. Many workers __ by train to avoid city traffic.",
+                    "hint": "交换; 减刑; 通勤"
+                }
+            ]
+        },
+        {
+            "word": "descry",
+            "prompts": [
+                {
+                    "content": "vt. I looked in the direction of the square and there I __ed a man running as hard as he could.",
+                    "hint": "察看, 发现; 远远看到"
+                },
+                {
+                    "content": "vt. From the hilltop, she could __ the distant village lights.",
+                    "hint": "察看, 发现; 远远看到"
+                }
+            ]
+        },
+        {
+            "word": "beguile",
+            "prompts": [
+                {
+                    "content": "vt. The speaker __ed them into believing his version of this event.",
+                    "hint": "诱骗；诱惑"
+                },
+                {
+                    "content": "vt. The magician __ed the audience with his clever tricks.",
+                    "hint": "诱骗；诱惑"
+                }
+            ]
+        },
+        {
+            "word": "commentary",
+            "prompts": [
+                {
+                    "content": "n. The sports __ during the match was very exciting.",
+                    "hint": "注释；解说词；评论"
+                },
+                {
+                    "content": "n. Her __ on the book provided deep insights.",
+                    "hint": "注释；解说词；评论"
+                }
+            ]
+        },
+        {
+            "word": "pacify",
+            "prompts": [
+                {
+                    "content": "vt. You can easily __ Joe, even though he storms.",
+                    "hint": "使平静，安慰，抚慰"
+                },
+                {
+                    "content": "vt. The mother tried to __ the crying baby with a toy.",
+                    "hint": "使平静，安慰，抚慰"
+                }
+            ]
+        },
+        {
+            "word": "eligible",
+            "prompts": [
+                {
+                    "content": "a. Last week disagreements about who should be __ to vote brought the election to a halt.",
+                    "hint": "符合条件的；合格的；(尤指婚姻等) 合适的，合意的"
+                },
+                {
+                    "content": "a. Only students with good grades are __ for the scholarship.",
+                    "hint": "符合条件的；合格的；(尤指婚姻等) 合适的，合意的"
+                }
+            ]
+        },
+        {
+            "word": "untimely",
+            "prompts": [
+                {
+                    "content": "a. An __ interruption ruined the important meeting.",
+                    "hint": "不适时的，不合时宜的"
+                },
+                {
+                    "content": "a. His __ death left the family in shock.",
+                    "hint": "不适时的，不合时宜的"
+                }
+            ]
+        },
+        {
+            "word": "chagrin",
+            "prompts": [
+                {
+                    "content": "n. This area was declared a wildlife reserve, much to the __ of developers.",
+                    "hint": "懊恼；气愤；委屈"
+                },
+                {
+                    "content": "n. To her __, the plan she proposed was rejected.",
+                    "hint": "懊恼；气愤；委屈"
+                }
+            ]
+        },
+        {
+            "word": "oppressive",
+            "prompts": [
+                {
+                    "content": "a. An __ regime controlled the country for decades.",
+                    "hint": "压制性的，压迫的；高压的；难以忍受的"
+                },
+                {
+                    "content": "a. The __ heat made it hard to work outside.",
+                    "hint": "压制性的，压迫的；高压的；难以忍受的"
+                }
+            ]
+        },
+        {
+            "word": "prescript",
+            "prompts": [
+                {
+                    "content": "a. The __ rules must be followed by all employees.",
+                    "hint": "作为条例规定的，指定的"
+                },
+                {
+                    "content": "a. Only __ methods are allowed in this laboratory.",
+                    "hint": "作为条例规定的，指定的"
+                }
+            ]
+        },
+        {
+            "word": "benign",
+            "prompts": [
+                {
+                    "content": "a. __ tumour does not spread to other parts of the body.",
+                    "hint": "(病) 良性的；(气候) 良好的；仁慈的，和蔼的"
+                },
+                {
+                    "content": "a. The __ old lady always helped her neighbors.",
+                    "hint": "(病) 良性的；(气候) 良好的；仁慈的，和蔼的"
+                }
+            ]
+        },
+        {
+            "word": "bombast",
+            "prompts": [
+                {
+                    "content": "n. Personally, the professor's lecture is full of __.",
+                    "hint": "夸大的言辞"
+                },
+                {
+                    "content": "n. His speech was pure __ with no real substance.",
+                    "hint": "夸大的言辞"
+                }
+            ]
+        },
+        {
+            "word": "menace",
+            "prompts": [
+                {
+                    "content": "n./vt. The boss often __ his workers with the immediate sack.",
+                    "hint": "威胁; 危险的人(或物)"
+                },
+                {
+                    "content": "n./vt. The dark clouds were a __ that promised a severe storm.",
+                    "hint": "威胁; 危险的人(或物)"
+                }
+            ]
+        },
+        {
+            "word": "fabricate",
+            "prompts": [
+                {
+                    "content": "vt. The President has denied the allegations, which he said were __ by his political opponents.",
+                    "hint": "捏造, 编造(谎言、借口等); 建造, 制造"
+                },
+                {
+                    "content": "vt. The engineer will __ a new prototype next month.",
+                    "hint": "捏造, 编造(谎言、借口等); 建造, 制造"
+                }
+            ]
+        },
+        {
+            "word": "unbecoming",
+            "prompts": [
+                {
+                    "content": "a. An __ speech has lost him many supporters.",
+                    "hint": "不恰当的, 不得体的"
+                },
+                {
+                    "content": "a. His rude behavior was __ for a gentleman.",
+                    "hint": "不恰当的, 不得体的"
+                }
+            ]
+        },
+        {
+            "word": "probe",
+            "prompts": [
+                {
+                    "content": "v. The police resolved to __ thoroughly into the series of mysterious deaths.",
+                    "hint": "探针; 探测器 / (以探针等) 探查, 穿刺; 查究"
+                },
+                {
+                    "content": "v. Scientists continue to __ the mysteries of deep space.",
+                    "hint": "探针; 探测器 / (以探针等) 探查, 穿刺; 查究"
+                }
+            ]
+        },
+        {
+            "word": "despondent",
+            "prompts": [
+                {
+                    "content": "a. He was __ about the way things were going.",
+                    "hint": "忧郁的, 垂头丧气的, 沮丧的"
+                },
+                {
+                    "content": "a. After the loss, the team looked __ in the locker room.",
+                    "hint": "忧郁的, 垂头丧气的, 沮丧的"
+                }
+            ]
+        },
+        {
+            "word": "penalty",
+            "prompts": [
+                {
+                    "content": "n. The death __ is still used in some countries.",
+                    "hint": "处罚, 惩罚"
+                },
+                {
+                    "content": "n. He received a heavy __ for breaking the traffic rules.",
+                    "hint": "处罚, 惩罚"
+                }
+            ]
+        },
+        {
+            "word": "causal",
+            "prompts": [
+                {
+                    "content": "a. These findings add considerable weight to the claims that emotional arousal is of __ significance to relapse.",
+                    "hint": "原因的, 因果关系的"
+                },
+                {
+                    "content": "a. Scientists study the __ link between smoking and lung cancer.",
+                    "hint": "原因的, 因果关系的"
+                }
+            ]
+        },
+        {
+            "word": "blaze",
+            "prompts": [
+                {
+                    "content": "n./vi. The stars __ overhead, so bright and clear that you can see everything in the sky.",
+                    "hint": "火焰; 光辉 / 燃烧, 冒火焰; 照耀, 发光"
+                },
+                {
+                    "content": "n./vi. A huge __ destroyed the old warehouse overnight.",
+                    "hint": "火焰; 光辉 / 燃烧, 冒火焰; 照耀, 发光"
+                }
+            ]
+        },
+        {
+            "word": "blasé",
+            "prompts": [
+                {
+                    "content": "a. Nowadays children have become __ about violence on television.",
+                    "hint": "不感兴趣的; 厌倦的"
+                },
+                {
+                    "content": "a. The __ traveler had seen every famous landmark already.",
+                    "hint": "不感兴趣的; 厌倦的"
+                }
+            ]
+        },
+        {
+            "word": "bleak",
+            "prompts": [
+                {
+                    "content": "a. A __ winter's day made everyone stay indoors.",
+                    "hint": "阴冷的, 阴郁的; 没有指望的, 令人沮丧的; 荒凉的, 凄凉的"
+                },
+                {
+                    "content": "a. The future looked __ after the company announced layoffs.",
+                    "hint": "阴冷的, 阴郁的; 没有指望的, 令人沮丧的; 荒凉的, 凄凉的"
+                }
+            ]
+        },
+        {
+            "word": "surmise",
+            "prompts": [
+                {
+                    "content": "v./n. It turned out that the man's __ was correct.",
+                    "hint": "推测, 猜测"
+                },
+                {
+                    "content": "v./n. I can only __ what really happened based on the clues.",
+                    "hint": "推测, 猜测"
+                }
+            ]
+        },
+        {
+            "word": "depraved",
+            "prompts": [
+                {
+                    "content": "a. A __ mind led him to commit terrible crimes.",
+                    "hint": "堕落的, 颓废的; 邪恶的"
+                },
+                {
+                    "content": "a. The __ed conditions in the prison shocked the visitors.",
+                    "hint": "堕落的, 颓废的; 邪恶的"
+                }
+            ]
+        },
+        {
+            "word": "indistinct",
+            "prompts": [
+                {
+                    "content": "a. An __ figure appeared in the foggy distance.",
+                    "hint": "不清楚的; 模糊的, 朦胧的"
+                },
+                {
+                    "content": "a. The voice on the phone was __ due to poor signal.",
+                    "hint": "不清楚的; 模糊的, 朦胧的"
+                }
+            ]
+        },
+        {
+            "word": "maneuver",
+            "prompts": [
+                {
+                    "content": "v. The troop was too big to __ very well in such a short time.",
+                    "hint": "调遣; 换防"
+                },
+                {
+                    "content": "v. The driver had to __ carefully through the narrow street.",
+                    "hint": "调遣; 换防"
+                }
+            ]
+        },
+        {
+            "word": "withhold",
+            "prompts": [
+                {
+                    "content": "v. During the trial, the man was accused of __ing crucial evidence.",
+                    "hint": "拒给, 扣留; 隐瞒(事实/证据/信息)"
+                },
+                {
+                    "content": "v. The company decided to __ the bonus until next year.",
+                    "hint": "拒给, 扣留; 隐瞒(事实/证据/信息)"
+                }
+            ]
+        },
+        {
+            "word": "ascribe",
+            "prompts": [
+                {
+                    "content": "vt. The report __s the rise in the disease to the increase in air pollution.",
+                    "hint": "归因于, 归咎于"
+                },
+                {
+                    "content": "vt. Historians __ the invention to an unknown engineer.",
+                    "hint": "归因于, 归咎于"
+                }
+            ]
+        },
+        {
+            "word": "genesis",
+            "prompts": [
+                {
+                    "content": "n. The __ of species is a topic of great scientific debate.",
+                    "hint": "创始，起源，源头"
+                },
+                {
+                    "content": "n. The __ of the company dates back to a small garage in 1990.",
+                    "hint": "创始，起源，源头"
+                }
+            ]
+        },
+        {
+            "word": "revoke",
+            "prompts": [
+                {
+                    "content": "vt. The police __ed the drunk driver's license.",
+                    "hint": "撤回；废除，取消，使无效"
+                },
+                {
+                    "content": "vt. The school may __ the student's scholarship for bad behavior.",
+                    "hint": "撤回；废除，取消，使无效"
+                }
+            ]
+        },
+        {
+            "word": "defraud",
+            "prompts": [
+                {
+                    "content": "v. This man was charged with __ing an insurance company of $20,000.",
+                    "hint": "欺骗，诈骗"
+                },
+                {
+                    "content": "v. The scam was designed to __ elderly people of their savings.",
+                    "hint": "欺骗，诈骗"
+                }
+            ]
+        },
+        {
+            "word": "uproot",
+            "prompts": [
+                {
+                    "content": "v. In 1954, my grandfather decided to __ his family and move to New York.",
+                    "hint": "连根拔起，根除； ( 使 ) 离开家园"
+                },
+                {
+                    "content": "v. The storm __ed several large trees in the park.",
+                    "hint": "连根拔起，根除； ( 使 ) 离开家园"
+                }
+            ]
+        },
+        {
+            "word": "prelude",
+            "prompts": [
+                {
+                    "content": "n. The __ to the concert featured a beautiful piano solo.",
+                    "hint": "先驱，先导；前奏，序幕"
+                },
+                {
+                    "content": "n. The meeting was only a __ to the main negotiations.",
+                    "hint": "先驱，先导；前奏，序幕"
+                }
+            ]
+        },
+        {
+            "word": "compressible",
+            "prompts": [
+                {
+                    "content": "a. The __ material is perfect for packaging fragile items.",
+                    "hint": "可压缩的，可压榨的"
+                },
+                {
+                    "content": "a. Air is highly __ compared to liquids.",
+                    "hint": "可压缩的，可压榨的"
+                }
+            ]
+        },
+        {
+            "word": "confrontation",
+            "prompts": [
+                {
+                    "content": "n. He wanted to avoid another __ with his father.",
+                    "hint": "对抗；冲突"
+                },
+                {
+                    "content": "n. The __ between the two teams ended in a draw.",
+                    "hint": "对抗；冲突"
+                }
+            ]
+        },
+        {
+            "word": "redeem",
+            "prompts": [
+                {
+                    "content": "vt. I __ed my ring from the pawnshop after I got my wages.",
+                    "hint": "赎回，挽回；恢复，补偿；兑换"
+                },
+                {
+                    "content": "vt. She __ed herself by apologizing and correcting the mistake.",
+                    "hint": "赎回，挽回；恢复，补偿；兑换"
+                }
+            ]
+        },
+        {
+            "word": "bucolic",
+            "prompts": [
+                {
+                    "content": "a. The __ scenery of the countryside was very relaxing.",
+                    "hint": "牧羊的；牧歌的，田园风味的"
+                },
+                {
+                    "content": "a. He preferred the __ life of farming over city living.",
+                    "hint": "牧羊的；牧歌的，田园风味的"
+                }
+            ]
+        },
+        {
+            "word": "entity",
+            "prompts": [
+                {
+                    "content": "n. A separate __ manages the company's overseas operations.",
+                    "hint": "实体；存在物"
+                },
+                {
+                    "content": "n. The government treats each department as an independent __.",
+                    "hint": "实体；存在物"
+                }
+            ]
+        },
+        {
+            "word": "accost",
+            "prompts": [
+                {
+                    "content": "vt. Mark __s the woman, pretending to brush dust from her clothes.",
+                    "hint": "对…说话, 搭话"
+                },
+                {
+                    "content": "vt. The stranger __ed me on the street asking for directions.",
+                    "hint": "对…说话, 搭话"
+                }
+            ]
+        },
+        {
+            "word": "desultory",
+            "prompts": [
+                {
+                    "content": "a. A __ conversation wandered from topic to topic.",
+                    "hint": "散漫的, 漫无目的的; 不连贯的, 断断续续的"
+                },
+                {
+                    "content": "a. His __ efforts at studying led to poor results.",
+                    "hint": "散漫的, 漫无目的的; 不连贯的, 断断续续的"
+                }
+            ]
+        },
+        {
+            "word": "perplexing",
+            "prompts": [
+                {
+                    "content": "a. A __ problem kept the scientists awake for nights.",
+                    "hint": "复杂的, 令人困惑的"
+                },
+                {
+                    "content": "a. The __ instructions confused everyone in the room.",
+                    "hint": "复杂的, 令人困惑的"
+                }
+            ]
+        },
+        {
+            "word": "persuade",
+            "prompts": [
+                {
+                    "content": "vt. UN wanted to __ the country to abandon its nuclear weapons development in return for economic and diplomatic rewards.",
+                    "hint": "说服, 劝说"
+                },
+                {
+                    "content": "vt. She managed to __ her parents to let her study abroad.",
+                    "hint": "说服, 劝说"
+                }
+            ]
+        },
+        {
+            "word": "coincidence",
+            "prompts": [
+                {
+                    "content": "n. It's not a __ and it's fate.",
+                    "hint": "一致, 符合; 巧合; 同时存在, 并存"
+                },
+                {
+                    "content": "n. Our meeting at the airport was a happy __.",
+                    "hint": "一致, 符合; 巧合; 同时存在, 并存"
+                }
+            ]
+        },
+        {
+            "word": "hypothesis",
+            "prompts": [
+                {
+                    "content": "n. Continental drift __ explains many geological features.",
+                    "hint": "假说, 假设; 猜测, 猜想"
+                },
+                {
+                    "content": "n. The scientist tested her __ with careful experiments.",
+                    "hint": "假说, 假设; 猜测, 猜想"
+                }
+            ]
+        },
+        {
+            "word": "defiant",
+            "prompts": [
+                {
+                    "content": "a. A __ attitude will not help you in negotiations.",
+                    "hint": "挑战的; 挑衅的; 目中无人的"
+                },
+                {
+                    "content": "a. The __ child refused to follow the teacher's instructions.",
+                    "hint": "挑战的; 挑衅的; 目中无人的"
+                }
+            ]
+        },
+        {
+            "word": "shrinkage",
+            "prompts": [
+                {
+                    "content": "n. The __ of heavy industry affected many workers.",
+                    "hint": "收缩"
+                },
+                {
+                    "content": "n. There was noticeable __ in the fabric after washing.",
+                    "hint": "收缩"
+                }
+            ]
+        },
+        {
+            "word": "reputed",
+            "prompts": [
+                {
+                    "content": "a. Herodotus who wrote Histories was __ to be Father of History.",
+                    "hint": "驰名的, 享有盛誉的; 号称的, 所谓的, 普遍认为的(略带怀疑成分)"
+                },
+                {
+                    "content": "a. The __ expert was actually a fraud in disguise.",
+                    "hint": "驰名的, 享有盛誉的; 号称的, 所谓的, 普遍认为的(略带怀疑成分)"
+                }
+            ]
+        },
+        {
+            "word": "allude",
+            "prompts": [
+                {
+                    "content": "vi. Joe did not __ to the growing scandal in his speech.",
+                    "hint": "暗指，影射，间接提到"
+                },
+                {
+                    "content": "vi. The speaker subtly __ed to the company's past failures.",
+                    "hint": "暗指，影射，间接提到"
+                }
+            ]
+        },
+        {
+            "word": "apprehensive",
+            "prompts": [
+                {
+                    "content": "a. An __ face showed her worry about the exam.",
+                    "hint": "忧虑的，担心的；有理解力的"
+                },
+                {
+                    "content": "a. He felt __ before the important job interview.",
+                    "hint": "忧虑的，担心的；有理解力的"
+                }
+            ]
+        },
+        {
+            "word": "discredit",
+            "prompts": [
+                {
+                    "content": "n./vt. The President used his powers to __ the investigation.",
+                    "hint": "丧失信用；怀疑，不信任 / 使不相信；使成为不可信；败坏…的声誉"
+                },
+                {
+                    "content": "n./vt. The false rumor will __ the politician's reputation.",
+                    "hint": "丧失信用；怀疑，不信任 / 使不相信；使成为不可信；败坏…的声誉"
+                }
+            ]
+        },
+        {
+            "word": "discourse",
+            "prompts": [
+                {
+                    "content": "n./vi. Sheila heard the teacher __ on that subject.",
+                    "hint": "演讲；谈话"
+                },
+                {
+                    "content": "n./vi. The professor gave a long __ on modern philosophy.",
+                    "hint": "演讲；谈话"
+                }
+            ]
+        },
+        {
+            "word": "discourteous",
+            "prompts": [
+                {
+                    "content": "a. __ acts can damage important business relationships.",
+                    "hint": "失礼的，无礼貌的"
+                },
+                {
+                    "content": "a. His __ reply shocked the polite guests.",
+                    "hint": "失礼的，无礼貌的"
+                }
+            ]
+        },
+        {
+            "word": "emanate",
+            "prompts": [
+                {
+                    "content": "v. Clark always knew whether his wife was at home from the smells __ing from the kitchen.",
+                    "hint": "流出，发出；发散，放射"
+                },
+                {
+                    "content": "v. A warm glow seemed to __ from the old lighthouse.",
+                    "hint": "流出，发出；发散，放射"
+                }
+            ]
+        },
+        {
+            "word": "purposeful",
+            "prompts": [
+                {
+                    "content": "a. A __ movement showed she had a clear plan.",
+                    "hint": "有目的的；有意义的"
+                },
+                {
+                    "content": "a. His __ stride indicated he was late for an important meeting.",
+                    "hint": "有目的的；有意义的"
+                }
+            ]
+        },
+        {
+            "word": "obstruct",
+            "prompts": [
+                {
+                    "content": "vt. Officials are hoping that none of these issues will __ progress in the peace talks.",
+                    "hint": "阻塞，截断，堵塞；阻碍，阻止，妨碍"
+                },
+                {
+                    "content": "vt. Fallen trees __ the road after the storm.",
+                    "hint": "阻塞，截断，堵塞；阻碍，阻止，妨碍"
+                }
+            ]
+        },
+        {
+            "word": "qualified",
+            "prompts": [
+                {
+                    "content": "a. The commentator who knew nothing about this case was not __ to say these words.",
+                    "hint": "有资格的，胜任的，合格的；有限制的，有保留的"
+                },
+                {
+                    "content": "a. Only __ doctors may perform the complex surgery.",
+                    "hint": "有资格的，胜任的，合格的；有限制的，有保留的"
+                }
+            ]
+        },
+        {
+            "word": "blighted",
+            "prompts": [
+                {
+                    "content": "a. Hundreds of hectares of the fruit trees were __ because of the sudden frost.",
+                    "hint": "枯萎的; 衰老的; 毁灭的; 摧残的; 生病了的"
+                },
+                {
+                    "content": "a. The __ neighborhood desperately needed redevelopment.",
+                    "hint": "枯萎的; 衰老的; 毁灭的; 摧残的; 生病了的"
+                }
+            ]
+        },
+        {
+            "word": "pontifical",
+            "prompts": [
+                {
+                    "content": "a. The teacher resented the students' __ manners.",
+                    "hint": "自以为是的, 武断的"
+                },
+                {
+                    "content": "a. His __ tone made the discussion feel one-sided.",
+                    "hint": "自以为是的, 武断的"
+                }
+            ]
+        },
+        {
+            "word": "covetous",
+            "prompts": [
+                {
+                    "content": "a. Mr. Black is a __ person on power and money.",
+                    "hint": "贪心的, 贪求的, 垂涎的"
+                },
+                {
+                    "content": "a. The __ neighbor always eyed others' possessions.",
+                    "hint": "贪心的, 贪求的, 垂涎的"
+                }
+            ]
+        },
+        {
+            "word": "fiddle",
+            "prompts": [
+                {
+                    "content": "n./v. The father was very angry because his son __ed his new watch.",
+                    "hint": "骗局, 欺诈; 小提琴 / 拉小提琴; 不停摆弄; 虚度光阴"
+                },
+                {
+                    "content": "n./v. Stop __ing with the radio and listen to me.",
+                    "hint": "骗局, 欺诈; 小提琴 / 拉小提琴; 不停摆弄; 虚度光阴"
+                }
+            ]
+        },
+        {
+            "word": "roam",
+            "prompts": [
+                {
+                    "content": "n./v. A group of students __ around on the streets after class.",
+                    "hint": "漫游; 闲逛; 徜徉"
+                },
+                {
+                    "content": "n./v. The lions __ freely in the African savanna.",
+                    "hint": "漫游; 闲逛; 徜徉"
+                }
+            ]
+        },
+        {
+            "word": "crabbed",
+            "prompts": [
+                {
+                    "content": "a. Tom's writings are too __ to be read easily by his teacher.",
+                    "hint": "裹躁的, 执拗的; 潦草的; 难懂的"
+                },
+                {
+                    "content": "a. The __ old man rarely smiled at anyone.",
+                    "hint": "裹躁的, 执拗的; 潦草的; 难懂的"
+                }
+            ]
+        },
+        {
+            "word": "correlation",
+            "prompts": [
+                {
+                    "content": "n. He sought to determine the __ that existed between ability in algebra and ability to interpret reading exercises.",
+                    "hint": "关联; 相互关系"
+                },
+                {
+                    "content": "n. There is a strong __ between exercise and good health.",
+                    "hint": "关联; 相互关系"
+                }
+            ]
+        },
+        {
+            "word": "associate",
+            "prompts": [
+                {
+                    "content": "a. The __ professor will lead the research team.",
+                    "hint": "副的; 联合的"
+                },
+                {
+                    "content": "a. She works as an __ editor at the magazine.",
+                    "hint": "副的; 联合的"
+                }
+            ]
+        },
+        {
+            "word": "mysterious",
+            "prompts": [
+                {
+                    "content": "a. The __ stranger left without saying a word.",
+                    "hint": "神秘的"
+                },
+                {
+                    "content": "a. Scientists are still investigating the __ disappearance.",
+                    "hint": "神秘的"
+                }
+            ]
+        },
+        {
+            "word": "endearing",
+            "prompts": [
+                {
+                    "content": "a. The puppy's __ behavior won everyone's heart.",
+                    "hint": "可爱的; 讨喜的"
+                },
+                {
+                    "content": "a. Her __ smile made the difficult conversation easier.",
+                    "hint": "可爱的; 讨喜的"
+                }
+            ]
+        },
+        {
+            "word": "adversarial",
+            "prompts": [
+                {
+                    "content": "a. The __ relationship between the two companies hurt both.",
+                    "hint": "对抗的; 对手的"
+                },
+                {
+                    "content": "a. The debate became too __ instead of constructive.",
+                    "hint": "对抗的; 对手的"
+                }
+            ]
+        },
+        {
+            "word": "masculine",
+            "prompts": [
+                {
+                    "content": "a./n. The __ voice echoed through the hall.",
+                    "hint": "男性; 阳性 / 男子气的"
+                },
+                {
+                    "content": "a./n. He has a very __ style of leadership.",
+                    "hint": "男性; 阳性 / 男子气的"
+                }
+            ]
+        },
+        {
+            "word": "critique",
+            "prompts": [
+                {
+                    "content": "n. The professor's __ helped improve the student's essay.",
+                    "hint": "批判"
+                },
+                {
+                    "content": "n. A fair __ should point out both strengths and weaknesses.",
+                    "hint": "批判"
+                }
+            ]
+        },
+        {
+            "word": "shuttle",
+            "prompts": [
+                {
+                    "content": "v. The bus __s passengers between the airport and the city center.",
+                    "hint": "穿梭往返"
+                },
+                {
+                    "content": "v. The ferry __s tourists across the river every hour.",
+                    "hint": "穿梭往返"
+                }
+            ]
+        }
+    ]
+}
